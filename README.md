@@ -1,4 +1,3 @@
-Here's the updated README with the information about using React version 17.0.2:
 
 ---
 
@@ -141,6 +140,4 @@ We welcome contributions to improve the Amazon Delivery Solution! To contribute:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
----
 
-This updated version includes the specific use of React 17.0.2 for the frontend. Let me know if you'd like further customizations!
